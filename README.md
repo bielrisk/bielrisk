@@ -1,6 +1,6 @@
 # 🎲 Oi, eu sou o Gabriel Rocha (:
 
-Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me certificar e aprimorar meus conhecimentos! Atualmente estudando muito para seguir carreira em Segurança da Informação. 
+Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me certificar e aprimorar meus conhecimentos! Atualmente estudando muito para seguir carreira em Segurança da Informação. Já formado, agora em busca do MBA em Cyber Security 🎓
 - +20 cursos/certificações em tencologia, entre eles empresas como: IBM, FIAP, Fortinet, University of Colorado, Coursera, Pluralsigth, University of Michigan, Microsoft, CertiProf entre outras.
 - Sou novo por aqui, então pega leve comigo 😅
 
@@ -27,7 +27,11 @@ Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me c
 
 ##
 
- #### 🧐 Algumas curiosidades
+#### ✔️ Certificados de Tecnologia 💻
+
+
+
+#### 🧐 Algumas curiosidades
      
 - 😰 Novato no GitHub
 - ⚡ Hoje trabalho como Analista de Infraestrutura
