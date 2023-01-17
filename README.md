@@ -1,7 +1,7 @@
 # 🎲 Oi, eu sou o Gabriel Rocha (:
 
 Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me certificar e aprimorar meus conhecimentos! Atualmente estudando muito para seguir carreira em Segurança da Informação. Já formado, agora em busca do MBA em Cyber Security 🎓
-- +20 cursos/certificações em tencologia, entre eles empresas como: IBM, FIAP, Fortinet, University of Colorado, Coursera, Pluralsigth, University of Michigan, Microsoft, CertiProf entre outras.
+- +20 cursos/certificações em tencologia, entre eles empresas como: IBM, FIAP, Cisco, Fortinet, University of Colorado, Coursera, Pluralsigth, University of Michigan, Microsoft, CertiProf entre outras.
 - Sou novo por aqui, então pega leve comigo 😅
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rocha-oliveira)
@@ -32,7 +32,12 @@ Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me c
 <div style="display: inline_block"><br/>
   <img align="center" heigth="100" width="120" alt="MS-900" src="https://images.credly.com/size/340x340/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" />
   <img align="center" heigth="100" width="120" alt="AZ-900" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" />
-  <img align="center" heigth="100" width="120" alt="SC-900" src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" />  
+  <img align="center" heigth="100" width="120" alt="SC-900" src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" />
+  <img align="center" heigth="100" width="120" alt="IBM IT Fundamentals Cybersecurity" src="https://images.credly.com/size/340x340/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png" />
+  <img align="center" heigth="100" width="120" alt="Security Analyst Fundamentals" src="https://images.credly.com/size/340x340/images/89fc0e9e-6da5-4146-b277-cd11c313123f/Security_Analyst_Fundamentals_Specialization.png" />
+  <img align="center" heigth="100" width="120" alt="Certificado Profissional IBM Cybersecurity Analyst" src="https://images.credly.com/size/340x340/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" />
+  <img align="center" heigth="100" width="120" alt="Cybersecuiry Essentials" src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" />
+  
 </div>
 
 #### 🧐 Algumas curiosidades
