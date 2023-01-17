@@ -13,15 +13,15 @@ Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me c
 ### 🧰 Linguagens de Programação e Ferramentas
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="GabrielAzure" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img align="center" alt="GabrielCanva" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-  <img align="center" alt="GabrielJira" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-  <img align="center" alt="GabrielLinux" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="GabrielPython" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="GabrielForce" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
-  <img align="center" alt="GabrielUbuntu" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  <img align="center" alt="GabrielGitHub" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="GabrielBash" heigth="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img align="center" alt="GabrielAzure" heigth="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center" alt="GabrielCanva" heigth="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+  <img align="center" alt="GabrielJira" heigth="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+  <img align="center" alt="GabrielLinux" heigth="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="GabrielPython" heigth="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="GabrielForce" heigth="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
+  <img align="center" alt="GabrielUbuntu" heigth="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  <img align="center" alt="GabrielGitHub" heigth="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="GabrielBash" heigth="35" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
                 
 </div>
 
