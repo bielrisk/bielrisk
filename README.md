@@ -37,7 +37,8 @@ Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me c
   <img align="center" heigth="100" width="120" alt="Security Analyst Fundamentals" src="https://images.credly.com/size/340x340/images/89fc0e9e-6da5-4146-b277-cd11c313123f/Security_Analyst_Fundamentals_Specialization.png" />
   <img align="center" heigth="100" width="120" alt="Certificado Profissional IBM Cybersecurity Analyst" src="https://images.credly.com/size/340x340/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" />
   <img align="center" heigth="100" width="120" alt="Cybersecuiry Essentials" src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" />
-  
+  <img align="center" heigth="100" width="120" alt="LGPD" src="https://images.credly.com/size/340x340/images/9b597652-5359-4187-86dc-9eee5d779741/Fundamentos-Na-Lei-Geral-De-Prote%C3%A7%C3%A3o-De-Dados---LGPDF.png" />
+  <img align="center" heigth="100" width="120" alt="Scrum" src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" />
 </div>
 
 #### 🧐 Algumas curiosidades
@@ -54,11 +55,9 @@ Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me c
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
+  media="(prefers-color-scheme: dark)" />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=bielrisk&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
 <img src="https://github-readme-stats.vercel.app/api?username=bielrisk&show_icons=true" />
 </picture>
