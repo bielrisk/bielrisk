@@ -1,4 +1,4 @@
-# 🎲 Oi, eu sou o Gabriel Rocha (:
+### 🎲 Oi, eu sou o Gabriel Rocha (:
 
 Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me certificar e aprimorar meus conhecimentos! Atualmente estudando muito para seguir carreira em Segurança da Informação. Já formado, agora em busca do MBA em Cyber Security 🎓
 - +20 cursos/certificações em tencologia, entre eles empresas como: IBM, FIAP, Cisco, Fortinet, University of Colorado, Coursera, Pluralsigth, University of Michigan, Microsoft, CertiProf entre outras.
@@ -10,7 +10,7 @@ Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me c
 
 ##
 
-#### 🧰 Linguagens de Programação e Ferramentas
+### 🧰 Linguagens de Programação e Ferramentas
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="GabrielAzure" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
@@ -27,7 +27,7 @@ Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me c
 
 ##
 
-#### ✔️ Certificados de Tecnologia 💻
+### ✔️ Certificados de Tecnologia 💻
 
 <div style="display: inline_block"><br/>
   <img align="center" heigth="100" width="120" alt="MS-900" src="https://images.credly.com/size/340x340/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" />
@@ -41,7 +41,7 @@ Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me c
   <img align="center" heigth="100" width="120" alt="Scrum" src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" />
 </div>
 
-#### 🧐 Algumas curiosidades
+### 🧐 Algumas curiosidades
      
 - 😰 Novato no GitHub
 - ⚡ Hoje trabalho como Analista de Infraestrutura
@@ -50,6 +50,6 @@ Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me c
 
 ##
 
-#### 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bielrisk&show_icons=true&theme=transparent)
