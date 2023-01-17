@@ -55,4 +55,4 @@ Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me c
 
 ### 📊 Estatísticas do GitHub
 
-![Bielrisk GitHub stats](https://github-readme-stats.vercel.app/api?username=bielrisk&show_icons=true&theme=radical)
+![Bielrisk GitHub stats](https://github-readme-stats.vercel.app/api?username=bielrisk&show_icons=true&theme=dark)
