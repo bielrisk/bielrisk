@@ -12,7 +12,7 @@ Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me c
 
 #### 🧰 Linguagens de Programação e Ferramentas
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br/>
   <img align="center" alt="GabrielAzure" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="GabrielCanva" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="GabrielJira" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
@@ -29,7 +29,9 @@ Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me c
 
 #### ✔️ Certificados de Tecnologia 💻
 
-
+<div style="display: inline_block"><br/>
+  <img align="center" alt="AzureFundamentals" src="" />
+</div>
 
 #### 🧐 Algumas curiosidades
      
