@@ -8,6 +8,8 @@ Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me c
 [![Instagaram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bielrochazl)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/bielrisk)
 
+##
+
 #### 🧰 Linguagens de Programação e Ferramentas
 
 <div style="display: inline_block"><br>
@@ -23,12 +25,16 @@ Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me c
                 
 </div>
 
+##
+
  #### 🧐 Algumas curiosidades
      
 - 😰 Novato no GitHub
 - ⚡ Hoje trabalho como Analista de Infraestrutura
 - 🌱 Estudando tudo realacionado a Segurança da Informação
 - 👨‍💻 MBA Cyber-Security em andamento!
+
+##
 
 #### 📊 Estatísticas do GitHub
 
