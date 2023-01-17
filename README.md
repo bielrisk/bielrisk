@@ -41,15 +41,18 @@ Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me c
   <img align="center" heigth="100" width="120" alt="Scrum" src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" />
 </div>
 
+##
+
 ### 🧐 Algumas curiosidades
      
 - 😰 Novato no GitHub
 - ⚡ Hoje trabalho como Analista de Infraestrutura
 - 🌱 Estudando tudo realacionado a Segurança da Informação
 - 👨‍💻 MBA Cyber-Security em andamento!
+- 🔎 Open Work for CyberSecurity
 
 ##
 
 ### 📊 Estatísticas do GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bielrisk&show_icons=true&theme=transparent)
+![Bielrisk GitHub stats](https://github-readme-stats.vercel.app/api?username=bielrisk&show_icons=true&theme=radical)
