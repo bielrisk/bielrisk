@@ -1,8 +1,13 @@
 # 🎲 Oi, eu sou o Gabriel Rocha (:
 
+Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me certificar e aprimorar meus conhecimentos! Atualmente estudando muito para seguir carreira em Segurança da Informação. 
+- +20 cursos/certificações em tencologia, entre eles empresas como: IBM, FIAP, Fortinet, University of Colorado, Coursera, Pluralsigth, University of Michigan, Microsoft, CertiProf entre outras.
+- Sou novo por aqui, então pega leve comigo 😅
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rocha-oliveira)
 [![Instagaram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bielrochazl)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/bielrisk)
+
 
 ##
 
