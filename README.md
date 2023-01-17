@@ -30,7 +30,9 @@ Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me c
 #### ✔️ Certificados de Tecnologia 💻
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="AzureFundamentals" src="" />
+  <img align="center" heigth="100" width="120" alt="MS-900" src="https://images.credly.com/size/340x340/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" />
+  <img align="center" heigth="100" width="120" alt="AZ-900" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" />
+  <img align="center" heigth="100" width="120" alt="SC-900" src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" />  
 </div>
 
 #### 🧐 Algumas curiosidades
