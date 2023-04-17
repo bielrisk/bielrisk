@@ -50,7 +50,7 @@ Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me c
 ### 🧐 Algumas curiosidades
      
 - 😰 Novato no GitHub
-- ⚡ Hoje trabalho como Analista de Infraestrutura
+- ⚡ Hoje trabalho como Analista de Segurança da Informação Pleno
 - 🌱 Estudando tudo realacionado a Segurança da Informação
 - 👨‍💻 MBA Cyber-Security em andamento!
 - 🔎 Open Work for CyberSecurity
