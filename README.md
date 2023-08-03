@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A9886&width=435&lines=Analista+de+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Futuro+Expert+em+CyberSecurity;%2B1+Contra+os+crimes+Cibern%C3%A9ticos)](https://git.io/typing-svg)
 
 Antes de tudo: proativo, eficiente e ambicioso. Estou sempre estudando para me certificar e aprimorar meus conhecimentos! Atualmente estudando muito para seguir carreira em Segurança da Informação. Já formado, agora em busca do MBA em Cyber Security 🎓
-- +20 cursos/certificações em tencologia, entre eles empresas como: IBM, FIAP, Cisco, Fortinet, University of Colorado, Coursera, Pluralsigth, University of Michigan, Microsoft, CertiProf entre outras.
+- +20 cursos/certificações em tecnologia, entre eles empresas como: IBM, FIAP, Cisco, Fortinet, University of Colorado, Coursera, Pluralsigth, University of Michigan, Microsoft, CertiProf entre outras.
 - Sou novo por aqui, então pega leve comigo 😅
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rocha-oliveira)
