@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 I am a Brazilian Cybersecurity Analyst currently working as a Mid-Level Information Security Analyst at **Porto**, one of the largest insurance companies in Brazil.
 
@@ -27,7 +27,7 @@ I am focused on Blue Team and SOC operations, while also studying offensive secu
 
 ---
 
-## 🎯 Core Focus
+### 🎯 Core Focus
 
 - SOC Operations
 - Blue Team
@@ -77,7 +77,7 @@ I am focused on Blue Team and SOC operations, while also studying offensive secu
 
 ---
 
-## 🏅 Certifications
+### 🏅 Certifications
 
 - CompTIA Security+ SY0-701
 - SCFE — Sec4us Certified Forensics Expert
@@ -97,7 +97,7 @@ I am focused on Blue Team and SOC operations, while also studying offensive secu
 
 ---
 
-## 🧪 Projects & Labs
+### 🧪 Projects & Labs
 
 I am currently organizing practical cybersecurity labs and write-ups focused on:
 
@@ -114,7 +114,13 @@ More projects coming soon.
 
 ---
 
-## 📚 Currently Learning
+### ✍️ Articles
+
+- [From Working at 14 to Cybersecurity: My Journey into SOC, Blue Team and Digital Forensics](https://medium.com/@biel.rocha.oliveira/from-working-at-14-to-cybersecurity-my-journey-into-soc-blue-team-and-digital-forensics-a95fcba64d1f)
+
+---
+
+### 📚 Currently Learning
 
 - Red Team Operations at FIAP
 - Advanced SOC investigation techniques
@@ -124,9 +130,10 @@ More projects coming soon.
 
 ---
 
-## 🌎 Connect with Me
+### 🌎 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Rocha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rocha-oliveira)
+[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@biel.rocha.oliveira)
 
 Soon: Medium articles and cybersecurity write-ups.
 
